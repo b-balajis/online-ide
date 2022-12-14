@@ -29,7 +29,7 @@ function App() {
         manual evaluation, this automated tool will be very useful in assessing
         the students. The project will be deployed using Google Firebase. This
         tool will establish a bias free environment during programming.
-        Keywords: Programming, web development, Google Firebase, IDE, MERN ;
+        Keywords: Programming, web development, Google Firebase, IDE, MERN 
       </p>
     </>
   );
